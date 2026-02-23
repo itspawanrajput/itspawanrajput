@@ -26,9 +26,9 @@
 class PawanRajput:
     def __init__(self):
         self.name        = "Pawan Rajput"
-        self.role        = "Senior Data Engineer & AI Builder"
+        self.role        = "Software Engineer"
         self.company     = "Optimum Info"
-        self.location    = "United States / Remote 🌎"
+        self.location    = "Noida / United States / Remote 🌎"
         self.experience  = "3+ years"
         self.focus_2026  = ["GenAI Pipelines", "LLM Ops", "Real-Time Streaming", "AI-Powered ETL"]
         self.cloud       = ["Azure ☁️", "AWS ⚡", "GCP 🔥"]
