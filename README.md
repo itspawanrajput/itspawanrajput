@@ -48,9 +48,9 @@ PawanRajput().say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Bedrock](https://custom-icon-badges.demolab.com/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector%20DBs-FAISS%20%7C%20Pinecone-10B981?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
@@ -59,14 +59,14 @@ PawanRajput().say_hi()
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ☁️ Cloud & Infra
 
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=msazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -129,7 +129,7 @@ PawanRajput().say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pawan%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajput-pawan/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Pawan%20Rajput-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rajput-pawan/)
 [![GitHub](https://img.shields.io/badge/GitHub-itspawanrajput-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itspawanrajput)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawansinghrajput01@gmail.com)
 
