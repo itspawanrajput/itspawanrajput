@@ -102,10 +102,10 @@ PawanRajput().say_hi()
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=itspawanrajput&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.zohan.tech/api?username=itspawanrajput&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
 <img width="48%" src="https://streak-stats.demolab.com/?user=itspawanrajput&theme=midnight-purple&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspawanrajput&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=itspawanrajput&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itspawanrajput&custom_title=Pawan's%20Contribution%20Graph&bg_color=0d1117&color=7C3AED&line=0ea5e9&point=ffffff&area=true&hide_border=true" />
 
