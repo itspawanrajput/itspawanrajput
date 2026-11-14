@@ -23,7 +23,7 @@ class PawanRajput:
     def __init__(self):
         self.role       = "GenAI Developer @ Iris Software"
         self.location   = "Noida, India 🌎"
-        self.experience = "3+ years"
+        self.experience = "4.5+ years"
         self.building   = "Production conversational AI for banking — agents, RAG, guardrails, evals"
         self.focus_2026 = ["Agentic AI & MCP", "LLM Evals & Guardrails", "LLMOps", "RAG at Scale"]
         self.stack      = ["LangGraph", "FastAPI", "AWS Bedrock", "PostgreSQL + pgvector"]
