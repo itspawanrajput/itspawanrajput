@@ -3,10 +3,8 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pawan%20Rajput&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLMOps%20%7C%20Data%20Engineering&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=🤖+Shipping+LLM+Apps+to+Production;🧠+Agents+%7C+RAG+%7C+Guardrails+%7C+Evals;🛠️+LangGraph+%7C+FastAPI+%7C+AWS+Bedrock;⚡+Scalable+Data+Pipelines;🏦+AI+for+Banking+%26+Enterprise" alt="Typing SVG" />
-</a>
+<h3>🤖 Shipping LLM Apps to Production · 🧠 Agents · RAG · Guardrails · Evals</h3>
+<p>🛠️ LangGraph · FastAPI · AWS Bedrock &nbsp;|&nbsp; ⚡ Scalable Data Pipelines &nbsp;|&nbsp; 🏦 AI for Banking & Enterprise</p>
 
 <br/>
 
